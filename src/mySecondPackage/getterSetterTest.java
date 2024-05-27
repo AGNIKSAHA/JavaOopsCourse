@@ -8,7 +8,7 @@ public class getterSetterTest {
         car.setColor("red");
         car.setModel("m29");
         System.out.println(car.getColor());
-        System.out.println(car.getModel());
+         System.out.println(car.getModel());
 
     }
 
