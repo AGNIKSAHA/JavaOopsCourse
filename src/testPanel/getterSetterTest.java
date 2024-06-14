@@ -1,4 +1,4 @@
-package mySecondPackage;
+package testPanel;
 import getterSetter.Car;
 
 public class getterSetterTest {

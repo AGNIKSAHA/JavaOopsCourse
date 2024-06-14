@@ -1,4 +1,4 @@
-package mySecondPackage;
+package testPanel;
 
 public class Packages {
 }
